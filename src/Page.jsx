@@ -51,7 +51,7 @@ function Footer(){
             <p className="text-center">
                 Link to
                 {' '}
-                <a href="">
+                <a href="https://github.com/Being-Maverick/issue-tracker-ui">
                     Github Repository
                 </a>
             </p>
