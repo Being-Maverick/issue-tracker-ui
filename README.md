@@ -11,5 +11,5 @@ To run this project on a your PC:
    a. UI_SERVER_PORT = Any valid free port number.
    b. UI_API_ENDPOINT = http://localhost:{port_number}/graphql. // Port on which api server is running.
    c. GOOGLE_CLIENT_ID = Google OAuth2 API credentials.
-5. Now, set up, your backend server by following the instructions in the [a link](https://github.com/Being-Maverick/issue-tracker-api) repository.
+5. Now, set up, your backend server by following the instructions in the [linked](https://github.com/Being-Maverick/issue-tracker-api) repository.
 6. Run "npm run dev-all" if you are on Mac, or "npm run watch-server-hmr" and "npm start" if you are on Windows.
